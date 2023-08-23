@@ -1,6 +1,6 @@
 # generated from manifests external_dependencies
 bravado_core
-jsonschema<4
+jsonschema
 pyTelegramBotAPI
 swagger_spec_validator
 viberbot
