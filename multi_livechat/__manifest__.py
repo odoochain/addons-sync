@@ -1,16 +1,16 @@
-# Copyright 2021 Ivan Yelizariev <https://twitter.com/yelizariev>
+# Copyright 2021-2022 Ivan Yelizariev <https://twitter.com/yelizariev>
 # License MIT (https://opensource.org/licenses/MIT).
 
 {
-    "name": """Multichannel Live Chat""",
+    "name": """Customer Chat""",
     "summary": """Be in touch with your partners via any supported channels (Telegram, WhatsApp, Instragram, etc.)""",
     "category": "Marketing",
     "images": ["images/multi_livechat.jpg"],
-    "version": "15.0.1.2.0",
+    "version": "15.0.2.0.0",
     "application": False,
     "author": "IT Projects Labs, Ivan Yelizariev",
     "support": "help@itpp.dev",
-    "website": "https://t.me/sync_studio",
+    "website": "https://itpp.dev/",
     "license": "Other OSI approved licence",  # MIT
     "depends": ["mail"],
     "external_dependencies": {"python": [], "bin": []},
